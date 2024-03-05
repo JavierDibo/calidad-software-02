@@ -1,0 +1,11 @@
+/Debug/
+/cmake-build-debug/
+/.cproject/
+/.project/
+/.settings/
+/html/
+proyecto-ajedrez.doxyfile
+proyecto-ajedrez.doxyfile.bak
+/.idea/
+.cproject
+.project
